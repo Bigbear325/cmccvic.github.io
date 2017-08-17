@@ -34,15 +34,17 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cmccvic.github.io/project/openo/</guid>
-      <description>&lt;p&gt;@(OPEN-O Project)[OPEN-O|Network Orchestrator|NFVO|NFV/SDN|Linux Foundation]
+      <description>
+
+&lt;p&gt;@(OPEN-O Project)[OPEN-O|Network Orchestrator|NFVO|NFV/SDN|Linux Foundation]
 &lt;img src=&#34;https://cl.ly/0Y0z2h3D1216/logo_openo.png&#34; alt=&#34;open-o logo&#34; /&gt;
 &lt;strong&gt;A Linux Foundation Project&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;#Overview&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
 
 &lt;p&gt;OPEN-O is seeking to offer network operators an incremental path to transform their networks, and OSS/BSS, through adoption of SDN and NFV without scrapping the vast investments in existing equipment and technologies.&lt;/p&gt;
 
-&lt;p&gt;##OPEN-O Architecture&lt;/p&gt;
+&lt;h2 id=&#34;open-o-architecture&#34;&gt;OPEN-O Architecture&lt;/h2&gt;
 
 &lt;p&gt;The OPEN-O Architecture (shown in the Figure below), enables operators to orchestrate end-to- end composite services, leveraging virtualized (and physical network functions), and SDN and legacy connectivity services. The model-driven service framework uses standard modeling languages including TOSCA and YANG, and a modular approach to integrate with MANO building blocks (such as VIMs and VNFMs), along with Connectivity Services Management, including SDN Controllers, EMS’ and NMS’.&lt;/p&gt;
 
@@ -51,15 +53,15 @@
 &lt;img src=&#34;https://cl.ly/451m1U20182U/OPEN-O%20MercuryArchitecture.pdf&#34; alt=&#34;OPEN-O Mercury Release Architecture&#34; /&gt;
 &lt;strong&gt;OPEN-O Mercury Release Architecture&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;##OPEN-O Project Latest News&lt;/p&gt;
+&lt;h2 id=&#34;open-o-project-latest-news&#34;&gt;OPEN-O Project Latest News&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.linuxfoundation.org/announcements/linux-foundation-announces-merger-of-open-source-ecomp-and-open-o%C2%A0to-form-new-open&#34; target=&#34;_blank&#34;&gt;The Linux Foundation Announces Merger of Open Source ECOMP and OPEN-O to Form New Open Network Automation Platform (ONAP) Project&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;#My Role in OPEN-O&lt;/p&gt;
+&lt;h1 id=&#34;my-role-in-open-o&#34;&gt;My Role in OPEN-O&lt;/h1&gt;
 
-&lt;p&gt;##Focus on Design and Develop NFV-O Module of OPEN-O&lt;/p&gt;
+&lt;h2 id=&#34;focus-on-design-and-develop-nfv-o-module-of-open-o&#34;&gt;Focus on Design and Develop NFV-O Module of OPEN-O&lt;/h2&gt;
 
-&lt;p&gt;##Focus on Design and Develop NFV-O Module of OPEN-O&lt;/p&gt;
+&lt;h2 id=&#34;focus-on-design-and-develop-nfv-o-module-of-open-o-1&#34;&gt;Focus on Design and Develop NFV-O Module of OPEN-O&lt;/h2&gt;
 </description>
     </item>
     
