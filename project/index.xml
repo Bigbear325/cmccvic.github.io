@@ -7,33 +7,238 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Zhiheng Liu</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>External Project</title>
-      <link>http://cmccvic.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>IDC Network Design</title>
+      <link>http://cmccvic.github.io/project/devicestest/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cmccvic.github.io/project/example-external-project/</guid>
-      <description></description>
+      <guid>http://cmccvic.github.io/project/devicestest/</guid>
+      <description>
+
+&lt;h2 id=&#34;mpls-vpn-mtu-research-in-china-mobile-ip-private-network&#34;&gt;MPLS-VPN MTU research in China Mobile IP private network&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/0d3s2e181B3o/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%205.41.29%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/431g2a2m3J1o/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%205.41.35%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/2s103v1o1D1d/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%205.41.40%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/2e032S0l0L2Y/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%205.41.46%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>OPEN-O</title>
-      <link>http://cmccvic.github.io/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>IDC Network Design</title>
+      <link>http://cmccvic.github.io/project/te/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cmccvic.github.io/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <guid>http://cmccvic.github.io/project/te/</guid>
+      <description>
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;h1 id=&#34;provide-cloud-design&#34;&gt;Provide Cloud design&lt;/h1&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;h2 id=&#34;private-cloud-traffic-flow-analysis&#34;&gt;Private cloud traffic flow analysis&lt;/h2&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/0g400W1z371B/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%205.02.00%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;private-cloud-network-design-for-china-mobile-private-cloud&#34;&gt;Private cloud network design for china mobile private cloud&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/3H3t0y192c2i/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%205.03.10%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MPLS-VPN MTU research in China Mobile IP private network</title>
+      <link>http://cmccvic.github.io/project/mtu/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/project/mtu/</guid>
+      <description>
+
+&lt;h2 id=&#34;mpls-vpn-mtu-research-in-china-mobile-ip-private-network&#34;&gt;MPLS-VPN MTU research in China Mobile IP private network&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/0d3s2e181B3o/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%205.41.29%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/431g2a2m3J1o/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%205.41.35%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/2s103v1o1D1d/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%205.41.40%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/2e032S0l0L2Y/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%205.41.46%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OPEN-O in Novonet</title>
+      <link>http://cmccvic.github.io/project/novonet/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/project/novonet/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/2N2N1v453q1o/Image%202017-08-18%20at%2012.03.00%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/3u3u0Y1y083u/Image%202017-08-18%20at%2012.08.26%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;job-role-in-novenet&#34;&gt;Job Role in NoveNet&lt;/h2&gt;
+
+&lt;p&gt;As the OPEN-O project manager to establish OPEN-O in NoveNet for field trail.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SDN Multi-tenancy and Serveice Chain</title>
+      <link>http://cmccvic.github.io/project/sdndc/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/project/sdndc/</guid>
+      <description>
+
+&lt;h1 id=&#34;project-background&#34;&gt;Project Background&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/373y3O2F3Q3L/Image%202017-08-18%20at%2012.21.47%20PM.png&#34; alt=&#34;background&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;motivation-before&#34;&gt;Motivation(Before)&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Users select the network, computing, storage of resources through the different page. To complete and bad user experience.&lt;/li&gt;
+&lt;li&gt;Current CMCC DC pool can only allocate for less than 4K enterprise users. Besides, users can not customize their network.&lt;/li&gt;
+&lt;li&gt;Network Function Virtualization(NFV) capacity is limited, can not provide users with value-added network services.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;objective-after&#34;&gt;Objective(After)&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Users can define their network resources, configuration, management, maintenance of private network through the graphical web interface.&lt;/li&gt;
+&lt;li&gt;Within a single resource pool, the network can support maximum 10K users, the tenant can allocate unlimited subnets within its VPC.&lt;/li&gt;
+&lt;li&gt;Virtual application of LB / NAT / VPN / VR / FW , to provide user-defined service chain function, flexible definition of rental network.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;vpc-service-chain-app&#34;&gt;VPC+ Service Chain APP&lt;/h1&gt;
+
+&lt;h2 id=&#34;architecture&#34;&gt;Architecture&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/3o0y0g393i1u/Image%202017-08-18%20at%203.20.18%20PM.png&#34; alt=&#34;System Architecture&#34; /&gt;
+1. Develop CMCC SDN VPC APP
+Tenants can custom cloud network, and firewall, load balancing service chain via the WEB interface(self-service portal).
+2. Based on OpenStack
+Based on OpenStack to collaborate with the virtual platform (VMware and KVM).
+3. Controller
+Support OpenStack NBI and SDN APP API. Support OpenFlow/XMPP/netconf/ovsdb protocol.
+4. Forwarding Devices
+Support VM and legacy device management.&lt;/p&gt;
+
+&lt;h2 id=&#34;sdn-dc-topology&#34;&gt;SDN DC Topology&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/1N0x3u1x2l1r/Image%202017-08-18%20at%203.24.03%20PM.png&#34; alt=&#34;SDN DC Topology&#34; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Network Topology:
+Using Spine &amp;amp; Leaf architecture, including underlay + overlay and pure overlay.&lt;/li&gt;
+&lt;li&gt;SDN:
+physical switches and vsw oriented SDN controller(CMCC developed)&lt;/li&gt;
+&lt;li&gt;Graphic and services chain APP: Our works&lt;/li&gt;
+&lt;li&gt;Performance support:  1000 openflows / s +  40 users concurrent configuration.&lt;/li&gt;
+&lt;li&gt;Configuration free: After the vsw starts, the controller is automatically connected. All subsequent configurations are controlled by the controller&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;system-demo&#34;&gt;System Demo&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/1q0C2B012g0r/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%203.25.51%20PM.png&#34; alt=&#34;Self Service Portal&#34; /&gt;
+User self service portal UI.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/1b2O2o2a0g47/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%203.27.28%20PM.png&#34; alt=&#34;online deployment&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;User online network deployment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/1r3J0f0E433x/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%203.27.59%20PM.png&#34; alt=&#34;online configuration&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;User online network configuration.&lt;/p&gt;
+
+&lt;h2 id=&#34;application&#34;&gt;Application&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;China Mobile Jiangxi DC&lt;/li&gt;
+&lt;li&gt;China Mobile Fujian Private Cloud Datacenter&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Traffic Engineering(TE) APP in SDN Controller</title>
+      <link>http://cmccvic.github.io/project/sdnte/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/project/sdnte/</guid>
+      <description>
+
+&lt;h1 id=&#34;project-background&#34;&gt;Project Background&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/3G151O3k3h3i/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%203.57.32%20PM.png&#34; alt=&#34;backboneNetwork&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The average utilization of the backbone network is less than 50%.&lt;/li&gt;
+&lt;li&gt;Network congestion reported.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
+
+&lt;p&gt;骨干网内部整体轻载（全网均值利用率小于50%），但存在局部拥塞。骨干网缺少流量调度手段，可以在局部拥塞时调整流量去空闲路径
+重要业务承载在CMNet网络上，需提供端到端的稳定带宽质量保障
+VPN网络on demand业务的快速开通，可视化监控虚拟网络流量&lt;/p&gt;
+
+&lt;h1 id=&#34;traffic-engineering-te-app&#34;&gt;Traffic Engineering(TE) APP&lt;/h1&gt;
+
+&lt;h2 id=&#34;architecture&#34;&gt;Architecture&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/2T1S1i1v2K37/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%204.06.20%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/05073t2P2c2Y/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%204.33.02%20PM.png&#34; alt=&#34;Architecture&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;algorithm&#34;&gt;Algorithm&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Predictive algorithm&lt;/li&gt;
+&lt;li&gt;Congestion algorithm&lt;/li&gt;
+&lt;li&gt;Hybrid&lt;/li&gt;
+&lt;li&gt;Traffic prediction algorithm&lt;/li&gt;
+&lt;li&gt;Splitting algorithm&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;field-trail&#34;&gt;Field Trail&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/252m2C0F1O04/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%204.39.01%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;
+Design of SDN TE in Fujian Metropolitan Area Network&lt;/p&gt;
+
+&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/100j2A0y2n02/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%204.39.29%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/0Q0b2G1Z2q42/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%204.39.52%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;As IGW and IDC, third-party export, Railcom and other interconnection, simulated traffic scheduling IGW1-BR between the link utilization rate of 77%, IGW2-BR link between the utilization rate of 0%&lt;/li&gt;
+&lt;li&gt;Using the Huawei traffic scheduling scheme to analyze the link flow information between IGW1 and BR, the elephant traffic between IGW1 and BR is adjusted to the link between IGW2 and BR&lt;/li&gt;
+&lt;li&gt;After adjustment, the link bandwidth utilization between IGW1-BR and IGW2-BR is evenly distributed, averaging 40% and 37%&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zero Rating Service</title>
+      <link>http://cmccvic.github.io/project/poster/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/project/poster/</guid>
+      <description>
+
+&lt;h2 id=&#34;poster-for-ieee-s-p-2017&#34;&gt;Poster for IEEE S&amp;amp;P 2017&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/1r1d35020P37/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%205.52.05%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -45,8 +250,7 @@
       <guid>http://cmccvic.github.io/project/openo/</guid>
       <description>
 
-&lt;p&gt;@ (OPEN-O Project) [OPEN-O|Network Orchestrator|NFVO|NFV/SDN|Linux Foundation]
-&lt;img src=&#34;https://cl.ly/0Y0z2h3D1216/logo_openo.png&#34; alt=&#34;open-o logo&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/0Y0z2h3D1216/logo_openo.png&#34; alt=&#34;open-o logo&#34; /&gt;
 &lt;strong&gt;A Linux Foundation Project&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;

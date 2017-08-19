@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 on Welcome to Zhiheng&#39;s Homepage</title>
+    <link>http://cmccvic.github.io/publication_types/8/</link>
+    <description>Recent content in 8 on Welcome to Zhiheng&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zhiheng Liu</copyright>
+    <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/8/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Problem Statement of Transport and Application Layer Protocols Providing Traffic Authentication Capability to Internet Middlebox</title>
+      <link>http://cmccvic.github.io/publication/protocolauth/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/protocolauth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extensions to PCEP for Distributing Label Cross Domains</title>
+      <link>http://cmccvic.github.io/publication/pcelabel/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/pcelabel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCE Hierarchical SDNs</title>
+      <link>http://cmccvic.github.io/publication/pcelabelh/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/pcelabelh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extensions to OSPF for Temporal LSP</title>
+      <link>http://cmccvic.github.io/publication/ospftts/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/ospftts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TE LSP Crossing Topology-Transparent Zones</title>
+      <link>http://cmccvic.github.io/publication/rsvp/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/rsvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytic Framework for NFV Orchestrator</title>
+      <link>http://cmccvic.github.io/publication/orchector/</link>
+      <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/orchector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed mobility management deployment scenario and architecture</title>
+      <link>http://cmccvic.github.io/publication/dmmarc/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/dmmarc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Address Selection for DMM</title>
+      <link>http://cmccvic.github.io/publication/dmmaddress/</link>
+      <pubDate>Sun, 17 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/dmmaddress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtualized Network Deployment Practice</title>
+      <link>http://cmccvic.github.io/publication/vnetdeploy/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/vnetdeploy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Methodology for Virtualization Network Performance</title>
+      <link>http://cmccvic.github.io/publication/virtualbenchmark/</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/virtualbenchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gap Analysis on Virtualized Network</title>
+      <link>http://cmccvic.github.io/publication/gapvirtual/</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/gapvirtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network as a Service Architecture</title>
+      <link>http://cmccvic.github.io/publication/nassarc/</link>
+      <pubDate>Sun, 04 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/nassarc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NaaS (Network as a service) requirement</title>
+      <link>http://cmccvic.github.io/publication/nassreq/</link>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/nassreq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probelm Statement for MTU Configuration</title>
+      <link>http://cmccvic.github.io/publication/mtu/</link>
+      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/mtu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Statement for VxLAN Performance Test</title>
+      <link>http://cmccvic.github.io/publication/vxlan/</link>
+      <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/vxlan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

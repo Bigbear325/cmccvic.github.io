@@ -21,29 +21,29 @@
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>http://cmccvic.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Devicetest</title>
+      <link>http://cmccvic.github.io/tags/devicetest/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cmccvic.github.io/tags/demo/</guid>
+      <guid>http://cmccvic.github.io/tags/devicetest/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>http://cmccvic.github.io/tags/hugo/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      <title>Mtu</title>
+      <link>http://cmccvic.github.io/tags/mtu/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cmccvic.github.io/tags/hugo/</guid>
+      <guid>http://cmccvic.github.io/tags/mtu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jekyll</title>
-      <link>http://cmccvic.github.io/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Novonet</title>
+      <link>http://cmccvic.github.io/tags/novonet/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cmccvic.github.io/tags/jekyll/</guid>
+      <guid>http://cmccvic.github.io/tags/novonet/</guid>
       <description></description>
     </item>
     
@@ -53,6 +53,42 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cmccvic.github.io/tags/open-o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster</title>
+      <link>http://cmccvic.github.io/tags/poster/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/tags/poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sdndc</title>
+      <link>http://cmccvic.github.io/tags/sdndc/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/tags/sdndc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sdnte</title>
+      <link>http://cmccvic.github.io/tags/sdnte/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/tags/sdnte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Te</title>
+      <link>http://cmccvic.github.io/tags/te/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/tags/te/</guid>
       <description></description>
     </item>
     

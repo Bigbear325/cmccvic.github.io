@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sdnte on Welcome to Zhiheng&#39;s Homepage</title>
+    <link>http://cmccvic.github.io/tags/sdnte/</link>
+    <description>Recent content in Sdnte on Welcome to Zhiheng&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zhiheng Liu</copyright>
+    <lastBuildDate>Thu, 28 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/sdnte/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Traffic Engineering(TE) APP in SDN Controller</title>
+      <link>http://cmccvic.github.io/project/sdnte/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/project/sdnte/</guid>
+      <description>
+
+&lt;h1 id=&#34;project-background&#34;&gt;Project Background&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/3G151O3k3h3i/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%203.57.32%20PM.png&#34; alt=&#34;backboneNetwork&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The average utilization of the backbone network is less than 50%.&lt;/li&gt;
+&lt;li&gt;Network congestion reported.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
+
+&lt;p&gt;骨干网内部整体轻载（全网均值利用率小于50%），但存在局部拥塞。骨干网缺少流量调度手段，可以在局部拥塞时调整流量去空闲路径
+重要业务承载在CMNet网络上，需提供端到端的稳定带宽质量保障
+VPN网络on demand业务的快速开通，可视化监控虚拟网络流量&lt;/p&gt;
+
+&lt;h1 id=&#34;traffic-engineering-te-app&#34;&gt;Traffic Engineering(TE) APP&lt;/h1&gt;
+
+&lt;h2 id=&#34;architecture&#34;&gt;Architecture&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/2T1S1i1v2K37/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%204.06.20%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/05073t2P2c2Y/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%204.33.02%20PM.png&#34; alt=&#34;Architecture&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;algorithm&#34;&gt;Algorithm&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Predictive algorithm&lt;/li&gt;
+&lt;li&gt;Congestion algorithm&lt;/li&gt;
+&lt;li&gt;Hybrid&lt;/li&gt;
+&lt;li&gt;Traffic prediction algorithm&lt;/li&gt;
+&lt;li&gt;Splitting algorithm&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;field-trail&#34;&gt;Field Trail&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/252m2C0F1O04/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%204.39.01%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;
+Design of SDN TE in Fujian Metropolitan Area Network&lt;/p&gt;
+
+&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/100j2A0y2n02/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%204.39.29%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cl.ly/0Q0b2G1Z2q42/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%204.39.52%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;As IGW and IDC, third-party export, Railcom and other interconnection, simulated traffic scheduling IGW1-BR between the link utilization rate of 77%, IGW2-BR link between the utilization rate of 0%&lt;/li&gt;
+&lt;li&gt;Using the Huawei traffic scheduling scheme to analyze the link flow information between IGW1 and BR, the elephant traffic between IGW1 and BR is adjusted to the link between IGW2 and BR&lt;/li&gt;
+&lt;li&gt;After adjustment, the link bandwidth utilization between IGW1-BR and IGW2-BR is evenly distributed, averaging 40% and 37%&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
