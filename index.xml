@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Towards a Secure Zero-rating Framework with Three Parties</title>
+      <link>http://cmccvic.github.io/publication/usenix/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/publication/usenix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Problem Statement of Transport and Application Layer Protocols Providing Traffic Authentication Capability to Internet Middlebox</title>
       <link>http://cmccvic.github.io/publication/protocolauth/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
@@ -288,22 +297,6 @@ Design of SDN TE in Fujian Metropolitan Area Network&lt;/p&gt;
 &lt;li&gt;Using the Huawei traffic scheduling scheme to analyze the link flow information between IGW1 and BR, the elephant traffic between IGW1 and BR is adjusted to the link between IGW2 and BR&lt;/li&gt;
 &lt;li&gt;After adjustment, the link bandwidth utilization between IGW1-BR and IGW2-BR is evenly distributed, averaging 40% and 37%&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Zero Rating Service</title>
-      <link>http://cmccvic.github.io/project/poster/</link>
-      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://cmccvic.github.io/project/poster/</guid>
-      <description>
-
-&lt;h2 id=&#34;poster-for-ieee-s-p-2017&#34;&gt;Poster for IEEE S&amp;amp;P 2017&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cl.ly/1r1d35020P37/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-18%205.52.05%20PM.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;year-2017&#34;&gt;Year: 2017&lt;/h3&gt;
 </description>
     </item>
     

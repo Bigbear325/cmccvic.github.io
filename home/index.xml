@@ -8,7 +8,63 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Zhiheng Liu</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://cmccvic.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://cmccvic.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/home/about/</guid>
+      <description>Biography I&amp;rsquo;m Zhiheng Liu (Andy), I&amp;rsquo;m in Sunnyvale CA now. I work as a software engineer intern in Google Cloud Platform. Before coming to the United States, I worked for China Mobile Research Institute(Cloud networking team) for four years. I contributed one international standard (RFC8099) and 27 technical proposals to Internet Engineering Task Force (IETF) as well as five patents. I love working on cloud technology such as network function virtualization (NFV), software-defined network (SDN), control plane networking system.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://cmccvic.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://cmccvic.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://cmccvic.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Line</title>
+      <link>http://cmccvic.github.io/home/timeline/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/home/timeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://cmccvic.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmccvic.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
